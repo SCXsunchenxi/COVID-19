@@ -21,4 +21,4 @@
     ├── model                       // saved T-LSTM model
     └── results                     // result files. 
     
-    ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif) 
+    ![](https://github.com/scxhhh/COVID-19/blob/main/figures/stage.png) 
