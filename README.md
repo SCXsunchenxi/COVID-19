@@ -1,1 +1,1 @@
-# COVID-19
+# covid_ts
