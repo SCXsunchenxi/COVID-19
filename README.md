@@ -22,7 +22,7 @@
     └── results                     // result files. 
     
 ## data
-![Image](https://github.com/scxhhh/COVID-19/blob/main/figures/stage.png) 
+![Image](https://github.com/scxhhh/COVID-19/blob/main/figures/data.png) 
 ## method
 ![Image](https://github.com/scxhhh/COVID-19/blob/main/figures/method.png) 
 ## prediction result
