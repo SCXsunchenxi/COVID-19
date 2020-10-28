@@ -21,4 +21,14 @@
     ├── model                       // saved T-LSTM model
     └── results                     // result files. 
     
-    ![Image](https://github.com/scxhhh/COVID-19/blob/main/figures/stage.png) 
+## data
+![Image](https://github.com/scxhhh/COVID-19/blob/main/figures/stage.png) 
+## method
+![Image](https://github.com/scxhhh/COVID-19/blob/main/figures/method.png) 
+## prediction result
+![Image](https://github.com/scxhhh/COVID-19/blob/main/figures/train.png) 
+![Image](https://github.com/scxhhh/COVID-19/blob/main/figures/result1.png) 
+## stage result
+![Image](https://github.com/scxhhh/COVID-19/blob/main/figures/stage.png) 
+![Image](https://github.com/scxhhh/COVID-19/blob/main/figures/stagefeature.png) 
+![Image](https://github.com/scxhhh/COVID-19/blob/main/figures/result4.png)
