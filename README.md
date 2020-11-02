@@ -1,5 +1,7 @@
 # Predicting Disease Progression and Outcome of COVID-19 Patients based on Temporal Deep Learning Method
 
+Chenxi Sun, Shenda Hong, Moxian Song, Hongyan Li and Zhenjie Wang. 
+
     ├── Readme.md                   // help  
     ├── T-LSTM                      // method code    
     │   ├── LSTMtimedecay.py      
