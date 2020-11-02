@@ -1,4 +1,4 @@
-# COVID-19
+# Predicting Disease Progression and Outcome of COVID-19 Patients based on Temporal Deep Learning Method
 
     ├── Readme.md                   // help  
     ├── T-LSTM                      // method code    
